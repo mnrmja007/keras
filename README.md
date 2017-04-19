@@ -4,7 +4,7 @@
 # Epoch 16/20
 33000/33600 [============================>.] - ETA: 0s - loss: 0.0216 - acc: 0.9933Epoch 00015: val_loss did not improve
 33600/33600 [==============================] - 2s - loss: 0.0219 - acc: 0.9932 - val_loss: 0.0650 - val_acc: 0.9851
-# Epoch 10/20
+# Epoch 9/20
 33000/33600 [============================>.] - ETA: 0s - loss: 0.0476 - acc: 0.9848Epoch 00008: val_loss improved from 0.06168 to 0.05591, saving model to ./best_checkpoint
 33600/33600 [==============================] - 2s - loss: 0.0475 - acc: 0.9849 - val_loss: 0.0559 - val_acc: 0.9837
 
